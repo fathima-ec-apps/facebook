@@ -3,6 +3,9 @@ Dont miss the classes...and practice...
 Iam adding this line now...
 Iam adding this line in dev branch..
 Iam updating this line..
+<<<<<<< HEAD
 =======
 Iam updating code in remote repo...
 >>>>>>> c31ace304a36dfc61c0aafd788a1db5fb2ead45e
+=======
+>>>>>>> master
